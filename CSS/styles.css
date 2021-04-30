@@ -1,0 +1,206 @@
+.top-container {
+  position: relative;
+  background-color: #e4fbff;
+  padding-top: 100px;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+}
+
+.usagi {
+  font-family: cursive;
+  font-size: 2.30rem;
+  margin-top: 50;
+  width: 20%;
+  margin: 0 auto 0 auto;
+}
+
+.intro {
+  margin: auto;
+  margin-bottom: 100px;
+  width: 30%
+}
+
+.middle-container {
+  margin: 100px auto 0 auto;
+}
+
+.bottom-container {}
+
+.otaku-parapgraph {
+  font-style: italic;
+  font-size: 1.5rem;
+  color: black;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: relative;
+  bottom: 300px;
+  right: 100px;
+}
+
+.mountain {
+  position: relative;
+  right: 55px
+}
+
+.line-1 {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 10%;
+}
+
+.mountain {
+  position: relative;
+  right: 55px
+}
+
+footer {
+  background-color: white;
+  margin: 0;
+}
+
+hr {
+  margin: 100px auto 100px auto;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+.anime {
+  float: left;
+  height: 255px;
+  width: 25%;
+}
+
+.anime2 {
+  width: 25%;
+  float: right;
+}
+
+.goal {
+  text-align: right;
+}
+
+.anime3 {
+  float: left;
+  height: 255px;
+  width: 25%;
+}
+
+.anime4 {
+  float: right;
+  height: 255px;
+  width: 25%;
+  position: relative;
+  bottom: 20px;
+}
+
+.support {
+  text-align: right;
+}
+
+.about-us {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+h2 {
+  color: skyblue;
+}
+
+h3 {
+  color: skyblue;
+}
+
+a{
+  color:#e4fbff;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: skyblue;
+}
+
+p {
+  line-height: 2;
+  color: black;
+}
+
+.bottom-contacts {
+  padding-top: 2px;
+  background-color: #726a95;
+}
+
+.foot2 {
+  color: #e4fbff;
+  margin: 30px auto 60px;
+  width: 40%;
+}
+
+.BUTTON_ZEO {
+   position: relative;
+   left: 280px;
+   background: #DF0FDC;
+   background-image: -webkit-linear-gradient(top, #DF0FDC, #7C258D);
+   background-image: -moz-linear-gradient(top, #DF0FDC, #7C258D);
+   background-image: -ms-linear-gradient(top, #DF0FDC, #7C258D);
+   background-image: -o-linear-gradient(top, #DF0FDC, #7C258D);
+   background-image: -webkit-gradient(to bottom, #DF0FDC, #7C258D);
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   color: #FFFFFF;
+   font-family: Garamond;
+   font-size: 40px;
+   font-weight: 100;
+   padding: 40px;
+   -webkit-box-shadow: 1px 1px 0 0 #000000;
+   -moz-box-shadow: 1px 1px 0 0 #000000;
+   box-shadow: 1px 1px 0 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #000000 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+.BUTTON_ZEO:hover {
+   border: solid #000000 1px;
+   background: #00FFDB;
+   background-image: -webkit-linear-gradient(top, skyblue, skyblue);
+   background-image: -moz-linear-gradient(top, skyblue, skyblue);
+   background-image: -ms-linear-gradient(top, skyblue, skyblue);
+   background-image: -o-linear-gradient(top, skyblue, skyblue);
+   background-image: -webkit-gradient(to bottom, skyblue, skyblue);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+.copyright{
+  font-size: 12px;
+  color:#e4fbff;
+}
+
+.final-message{
+  text-align: center;
+
+}
